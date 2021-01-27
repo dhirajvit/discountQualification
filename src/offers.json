@@ -1,0 +1,11 @@
+{
+  "3for2": {
+    "buy": 3,
+    "pay": 2
+  },
+  "bundle": 4,
+  "buyXgetYFree": {
+    "buyX": "healthi",
+    "getYFree": "peti"
+  }
+}
